@@ -9,9 +9,9 @@
 
 - 🤝 I’m currently seeking **Job opportunities and referrals**
 
-- 👨‍💻 All of my projects are available at [flowcv.me/afukam](flowcv.me/afukam)
+- 👨‍💻 All of my projects are available at [Portfolio](flowcv.me/afukam)
 
-- 📝 I regularly write articles on [https://afukamwrites.hashnode.dev/](https://afukamwrites.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode](https://afukamwrites.hashnode.dev/)
 
 - 💬 Ask me about **cybersecurity, SIEM, technical writing**
 
