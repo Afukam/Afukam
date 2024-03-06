@@ -9,7 +9,7 @@
 
 - 🤝 I’m currently seeking **Job opportunities and referrals**
 
-- 👨‍💻 All of my projects are available at [Portfolio](flowcv.me/afukam)
+- 👨‍💻 All of my projects are available at [Portfolio](https://flowcv.me/afukam)
 
 - 📝 I regularly write articles on [Hashnode](https://afukamwrites.hashnode.dev/)
 
