@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afukam" alt="afukam" /></a> </p>
 
-- 🔭 I’m currently working on [Security policy series series]((https://afukamwrites.hashnode.dev/series/cybersecurity-policies))
+- 🔭 I’m currently working on [Security policy series series](https://afukamwrites.hashnode.dev/series/cybersecurity-policies)
 
 - 👯 My Cybersecurity projects can be found here [Cybersecurity projects](https://github.com/Afukam/Cybersecurity-Projects.git)
 
