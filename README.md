@@ -46,7 +46,7 @@ Browse the [Cybersecurity Projects index](https://github.com/Afukam/Cybersecurit
 
 ## Currently
 
-Building an AWS-based Cowrie honeypot and Wazuh monitoring lab. The Wazuh environment and agent onboarding are underway; validating Cowrie telemetry ingestion and developing tested detections are upcoming milestones. The project journal includes completed phases, current blockers, and troubleshooting notes.
+Building an AWS-based Cowrie honeypot and Wazuh monitoring lab. The Wazuh dashboard is accessible and an agent is running. The next milestones are to verify Cowrie event ingestion, develop and test detections, and build investigation dashboards. The lab is being kept in a controlled environment while monitoring and detection are developed; the project journal documents progress and troubleshooting.
 
 ## Contact
 
