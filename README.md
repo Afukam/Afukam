@@ -1,41 +1,52 @@
-<h1 align="center">Hi 👋, I'm Afukam</h1>
-<h3 align="center">A cybersecurity Analyst based in Canada</h3>
+# Hi, I'm Afukam 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afukam" alt="afukam" /></a> </p>
+**Cybersecurity | Security Operations • SIEM • Threat Hunting • Malware Analysis**
 
-- 🔭 I’m currently working on [Security policy series series](https://afukamwrites.hashnode.dev/series/cybersecurity-policies)
+I'm an Applied Computer Science student based in Canada, building practical experience across security operations, identity and endpoint security, SIEM monitoring, and threat analysis.
 
-- 👯 My Cybersecurity projects can be found here [Cybersecurity projects](https://github.com/Afukam/Cybersecurity-Projects.git)
+I enjoy working with security telemetry, investigating suspicious activity, understanding attacker behaviour, and documenting findings in a clear, repeatable way. My portfolio brings together hands-on labs, security tools, investigations, and technical writing.
 
-- 🤝 I’m currently seeking **Job opportunities and referrals**
+## Focus Areas
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://flowcv.me/afukam)
+- **Security Operations & SIEM:** log analysis, alert investigation, security monitoring, Elastic, Splunk, and Wazuh labs
+- **Threat Hunting & Detection:** investigating suspicious activity, exploring detection logic, and mapping behaviours to MITRE ATT&CK
+- **Malware & Threat Analysis:** examining suspicious files and scripts, researching indicators, and documenting findings
+- **Identity & Endpoint Security:** Active Directory, Microsoft Entra ID, MFA, access controls, endpoint hardening
+- **Security Automation:** Python, Bash, and network-security tooling
 
-- 📝 I regularly write articles on [Hashnode](https://afukamwrites.hashnode.dev/)
+## Featured Work
 
-- 💬 Ask me about **cybersecurity, technical writing**
+| Area | Project |
+|---|---|
+| SIEM & Security Operations | [SIEM Lab Series](https://github.com/Afukam/SIEM-lab-series) |
+| Malware Analysis | [Malware Analysis](https://github.com/Afukam/Malware-Analysis) |
+| Security Projects Index | [Cybersecurity Projects](https://github.com/Afukam/Cybersecurity-Projects) |
+| Network Scanning & Security Tools | [Christiania](https://github.com/Afukam/Christiania) · [Pius](https://github.com/Afukam/Pius) |
+| Python Security Tools | [Python for Security](https://github.com/Afukam/Python-4-security-) |
 
-- 📫 How to reach me **Chiafukam@proton.me**
+For project context, evidence, and documentation, start with the [Cybersecurity Projects index](https://github.com/Afukam/Cybersecurity-Projects).
 
-- ⚡ Fun fact **I am a bibliophile, and my current read is "A love song for Richie Wilde"**
+## Technical Writing
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+I document labs, investigations, and security concepts:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/emma chiafukamnanya nwanonenyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emma chiafukamnanya nwanonenyi" height="30" width="40" /></a>
-<a href="https://hashnode.com/@afukam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@afukam" height="30" width="40" /></a>
-<a href="https://medium.com/@afukam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@afukam" height="30" width="40" /></a>
-<a href="/https://afukamwrites.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://afukamwrites.hashnode.dev/rss.xml" height="30" width="40" /></a>
-</p>
+- [Hashnode](https://afukamwrites.hashnode.dev/)
+- [Medium](https://medium.com/@afukam)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Tools & Technologies
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afukam&show_icons=true&locale=en&layout=compact" alt="afukam" /></p>
+**Security:** Elastic Security, Splunk, Wazuh, MITRE ATT&CK, Wireshark, Nmap, Nessus  
+**Identity & Endpoint:** Active Directory, Microsoft Entra ID, MFA, RBAC  
+**Cloud & Systems:** AWS, Linux, Windows  
+**Scripting & Data:** Python, Bash, PowerShell, SQL  
+**Workflow & Documentation:** Git, GitHub, Jira
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afukam&show_icons=true&locale=en" alt="afukam" /></p>
+## Currently
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afukam&" alt="afukam" /></p>
+- Building and documenting an AWS-based Cowrie honeypot and Wazuh monitoring lab.
+- Developing practical skills in SIEM investigation, detection logic, and threat analysis.
+- Seeking opportunities to contribute to security operations and cybersecurity teams.
+
+## Get in Touch
+
+- Email: [Chiafukam@proton.me](mailto:Chiafukam@proton.me)
