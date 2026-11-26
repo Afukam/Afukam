@@ -1,10 +1,14 @@
-# Hi, I'm Afukam 👋
+# Afukam
 
 **Cybersecurity | Security Operations • SIEM • Threat Hunting • Malware Analysis**
 
-I'm an Applied Computer Science student based in Canada, building practical experience across security operations, identity and endpoint security, SIEM monitoring, and threat analysis.
+## About
 
-I enjoy investigating security telemetry, understanding attacker behaviour, troubleshooting technical problems, and documenting what I learn — including the obstacles, evidence, and fixes.
+I am an Applied Computer Science student with hands-on experience in enterprise IT support and security-focused technical work. My background includes identity and access management, endpoint support and hardening, authentication troubleshooting, and investigating suspicious activity through system and authentication logs.
+
+Alongside my professional experience, I build practical cybersecurity projects focused on security operations, SIEM monitoring, network security, malware analysis, and security automation. I use these projects to strengthen my technical skills through experimentation, structured investigation, and careful documentation of the challenges encountered, the evidence examined, and the steps taken to resolve issues.
+
+I am particularly interested in entry-level opportunities in **Security Operations (SOC), Security Analysis, and Detection Engineering**, where I can contribute strong troubleshooting, analytical, documentation, and collaboration skills while continuing to develop as a security practitioner.
 
 ## Featured Cybersecurity Work
 
