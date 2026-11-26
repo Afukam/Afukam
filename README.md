@@ -4,19 +4,19 @@
 
 I'm an Applied Computer Science student based in Canada, building practical experience across security operations, identity and endpoint security, SIEM monitoring, and threat analysis.
 
-I enjoy investigating security telemetry, understanding attacker behaviour, and documenting technical findings in a clear, repeatable way.
+I enjoy investigating security telemetry, understanding attacker behaviour, troubleshooting technical problems, and documenting what I learn — including the obstacles, evidence, and fixes.
 
 ## Featured Cybersecurity Work
 
 | Focus | Project |
 |---|---|
 | Security Operations & SIEM | [SIEM Lab Series — Elastic and Splunk](https://github.com/Afukam/SIEM-lab-series) |
-| Current Homelab | [AWS Cowrie + Wazuh — project phases and progress](https://github.com/Afukam/What-s-going-on-in-Afukam-s-head/blob/main/AWS-Cowrie-Wazuh-SIEM-Lab.md) |
+| Current Homelab | [AWS Cowrie + Wazuh — project phases](https://github.com/Afukam/What-s-going-on-in-Afukam-s-head/blob/main/AWS-Cowrie-Wazuh-SIEM-Lab.md) · [Troubleshooting log](https://github.com/Afukam/What-s-going-on-in-Afukam-s-head/blob/main/TROUBLESHOOTING-LOG.md) |
 | Malware Analysis | [Malware Analysis](https://github.com/Afukam/Malware-Analysis) |
 | Network Security | [Christiania](https://github.com/Afukam/Christiania) · [Pius](https://github.com/Afukam/Pius) |
 | Security Awareness | [People-Focused Cybersecurity Projects](https://github.com/Afukam/people-focused-cybersecurity-projects) |
 
-Browse the full [Cybersecurity Projects index](https://github.com/Afukam/Cybersecurity-Projects) for the organized portfolio.
+Browse the [Cybersecurity Projects index](https://github.com/Afukam/Cybersecurity-Projects) and its [Technical Writing Index](https://github.com/Afukam/Cybersecurity-Projects/blob/main/WRITING-INDEX.md) to connect my projects with my Hashnode and Medium articles.
 
 ## Areas of Interest
 
@@ -30,6 +30,7 @@ Browse the full [Cybersecurity Projects index](https://github.com/Afukam/Cyberse
 
 - [Hashnode](https://afukamwrites.hashnode.dev/)
 - [Medium](https://medium.com/@afukam)
+- [GitHub writing index — articles mapped to projects](https://github.com/Afukam/Cybersecurity-Projects/blob/main/WRITING-INDEX.md)
 
 ## Tools & Technologies
 
@@ -41,7 +42,7 @@ Browse the full [Cybersecurity Projects index](https://github.com/Afukam/Cyberse
 
 ## Currently
 
-Building an AWS-based Cowrie honeypot and Wazuh monitoring lab. The Wazuh environment and agent onboarding are underway; validating Cowrie telemetry ingestion and developing tested detections are upcoming milestones.
+Building an AWS-based Cowrie honeypot and Wazuh monitoring lab. The Wazuh environment and agent onboarding are underway; validating Cowrie telemetry ingestion and developing tested detections are upcoming milestones. The project journal includes completed phases, current blockers, and troubleshooting notes.
 
 ## Contact
 
