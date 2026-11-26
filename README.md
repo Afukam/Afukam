@@ -1,10 +1,10 @@
 # Afukam
 
-**Cybersecurity | Security Operations • SIEM • Threat Hunting • Malware Analysis**
+**Applied Computer Science Student (2027) | CompTIA Security+ | Cybersecurity • SOC Operations • SIEM • Threat Hunting**
 
 ## About
 
-I am an Applied Computer Science student with hands-on experience in enterprise IT support and security-focused technical work. My background includes identity and access management, endpoint support and hardening, authentication troubleshooting, and investigating suspicious activity through system and authentication logs.
+I am an Applied Computer Science student at the University of Winnipeg, expected to graduate in 2027, and a CompTIA Security+ holder. I have hands-on experience in enterprise IT support and security-focused technical work. My background includes identity and access management, endpoint support and hardening, authentication troubleshooting, and investigating suspicious activity through system and authentication logs.
 
 Alongside my professional experience, I build practical cybersecurity projects focused on security operations, SIEM monitoring, network security, malware analysis, and security automation. I use these projects to strengthen my technical skills through experimentation, structured investigation, and careful documentation of the challenges encountered, the evidence examined, and the steps taken to resolve issues.
 
