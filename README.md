@@ -1,6 +1,6 @@
 # Afukam
 
-**Applied Computer Science Student (2027) | CompTIA Security+ | Cybersecurity • SOC Operations • SIEM • Threat Hunting**
+**Applied Computer Science Student  | CompTIA Security+ | Cybersecurity • SOC Operations • SIEM • Threat Hunting**
 
 ## About
 
