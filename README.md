@@ -1,26 +1,26 @@
 # Afukam
 
-**Applied Computer Science Student  | CompTIA Security+ | Cybersecurity • SOC Operations • SIEM • Threat Hunting**
+**Applied Computer Science Student | CompTIA Security+ | Cybersecurity • SOC Operations • SIEM • Threat Hunting**
 
 ## About
 
 I am an Applied Computer Science student at the University of Winnipeg, expected to graduate in 2027, and a CompTIA Security+ holder. I have hands-on experience in enterprise IT support and security-focused technical work. My background includes identity and access management, endpoint support and hardening, authentication troubleshooting, and investigating suspicious activity through system and authentication logs.
 
-Alongside my professional experience, I build practical cybersecurity projects focused on security operations, SIEM monitoring, network security, malware analysis, and security automation. I use these projects to strengthen my technical skills through experimentation, structured investigation, and careful documentation of the challenges encountered, the evidence examined, and the steps taken to resolve issues.
+Alongside my professional experience, I build practical cybersecurity projects focused on security operations, SIEM monitoring, network security, malware analysis, and security automation. I document the environments, methods, evidence, limitations, and next steps so visitors can distinguish demonstrated results from work that still needs validation.
 
 I am particularly interested in entry-level opportunities in **Security Operations (SOC), Security Analysis, and Detection Engineering**, where I can contribute strong troubleshooting, analytical, documentation, and collaboration skills while continuing to develop as a security practitioner.
 
 ## Featured Cybersecurity Work
 
-| Focus | Project |
+| Focus | Project and evidence |
 |---|---|
-| Security Operations & SIEM | [SIEM Lab Series — Elastic and Splunk](https://github.com/Afukam/SIEM-lab-series) |
-| Current Homelab | [AWS Cowrie + Wazuh — project phases](https://github.com/Afukam/What-s-going-on-in-Afukam-s-head/blob/main/AWS-Cowrie-Wazuh-SIEM-Lab.md) · [Troubleshooting log](https://github.com/Afukam/What-s-going-on-in-Afukam-s-head/blob/main/TROUBLESHOOTING-LOG.md) |
-| Malware Analysis | [Malware Analysis](https://github.com/Afukam/Malware-Analysis) |
-| Network Security | [Christiania](https://github.com/Afukam/Christiania) · [Pius](https://github.com/Afukam/Pius) |
-| Security Awareness | [People-Focused Cybersecurity Projects](https://github.com/Afukam/people-focused-cybersecurity-projects) |
+| **Security Operations & SIEM** | [SIEM Lab Series — Elastic and Splunk](https://github.com/Afukam/SIEM-lab-series) · [Elastic evidence-reviewed report](https://github.com/Afukam/SIEM-lab-series/blob/main/SIEM%201/LAB-REPORT.md) · [Splunk evidence-reviewed report](https://github.com/Afukam/SIEM-lab-series/blob/main/SIEM%202/LAB-REPORT.md) |
+| **Current AWS Homelab** | [Cowrie + Wazuh project phases](https://github.com/Afukam/What-s-going-on-in-Afukam-s-head/blob/main/AWS-Cowrie-Wazuh-SIEM-Lab.md) · [Troubleshooting log](https://github.com/Afukam/What-s-going-on-in-Afukam-s-head/blob/main/TROUBLESHOOTING-LOG.md) |
+| **Malware & Email Analysis** | [Malware Analysis repository](https://github.com/Afukam/Malware-Analysis) · [Suspicious attachment triage evidence review](https://github.com/Afukam/Malware-Analysis/blob/main/EMAIL-ATTACHMENT-TRIAGE-REPORT.md) |
+| **Network Security** | [Christiania](https://github.com/Afukam/Christiania) · [Pius](https://github.com/Afukam/Pius) |
+| **Security Awareness** | [People-Focused Cybersecurity Projects](https://github.com/Afukam/people-focused-cybersecurity-projects) |
 
-Browse the [Cybersecurity Projects index](https://github.com/Afukam/Cybersecurity-Projects) and its [Technical Writing Index](https://github.com/Afukam/Cybersecurity-Projects/blob/main/WRITING-INDEX.md) to connect my projects with my Hashnode and Medium articles.
+Browse the [Cybersecurity Projects index](https://github.com/Afukam/Cybersecurity-Projects) and its [Technical Writing Index](https://github.com/Afukam/Cybersecurity-Projects/blob/main/WRITING-INDEX.md) for the wider portfolio.
 
 ## Areas of Interest
 
